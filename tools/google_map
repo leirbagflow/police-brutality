@@ -1,0 +1,7 @@
+Created a pin per incident on google map here: https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%221V9SURADlD1Fk1rF6JSWIz83YqgU4tmky%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22116010288170673713617%22%7D&usp=sharing
+
+From test spreadsheet here: https://docs.google.com/spreadsheets/d/1T3Ob9NtwC0xD0Ly2d63xhoTek8hkYIfaIdKtTJGXO6k/edit#gid=0
+
+Spreadsheet created using API using importJSON script from here: https://gist.github.com/paulgambill/cacd19da95a1421d3164
+
+Had to clean up city/state pairs as a 5 rows had some variation of 'unknown'.
